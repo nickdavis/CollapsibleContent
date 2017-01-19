@@ -24,7 +24,7 @@ function enqueue_assets() {
 
 	wp_enqueue_script(
 		'collapsible-content-plugin-script',
-		COLLAPSIBLE_CONTENT_URL . 'assets/dist/js/jquery.project.js',
+		COLLAPSIBLE_CONTENT_URL . 'assets/dist/js/jquery.project.min.js',
 		array( 'jquery' ),
 		'1.0.0',
 		false
