@@ -48,6 +48,6 @@ if ( is_ssl() ) {
 	$plugin_url = str_replace( 'http://', 'https://', $plugin_url );
 }
 define( 'COLLAPSIBLE_CONTENT_URL', $plugin_url );
-define( 'COLLAPSIBLE_CONTENT_TEXT_DOMAIN', 'collapsible_content' );
+define( 'COLLAPSIBLE_CONTENT_TEXT_DOMAIN', 'collapsible-content' );
 
 include __DIR__ . '/src/plugin.php';
