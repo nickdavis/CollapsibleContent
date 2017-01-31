@@ -10,6 +10,8 @@
  */
 namespace NickDavis\Module\FAQ;
 
+define( 'FAQ_MODULE_DIR', __DIR__ );
+
 function autoload() {
 	$files = array(
 		'custom/post-type.php',
