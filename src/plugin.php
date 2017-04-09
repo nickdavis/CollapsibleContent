@@ -31,6 +31,13 @@ function enqueue_assets() {
 	);
 }
 
+/**
+ * Autoload plugin files.
+ *
+ * @since 1.2.0
+ *
+ * @return void
+ */
 function autoload() {
 	$files = array(
 		'shortcode/shortcodes.php',

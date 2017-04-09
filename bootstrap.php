@@ -11,7 +11,7 @@
  * Plugin Name:     Collapsible Conent
  * Plugin URI:      _
  * Description:     Collapsible Content is a WordPress plugin that shows and hides content.
- * Version:         1.0.0
+ * Version:         1.2.0
  * Author:          iamnickdavis
  * Author URI:      https://iamnickdavis.com
  * Text Domain:     collapsible_content
